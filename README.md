@@ -10,7 +10,7 @@ I've been coding for 2 years now and always looking to learn.
 *   🖥️  See my portfolio at [this site](http://gastoncarriquiry.glitch.me)
 *   ✉️  You can contact me at [gastoncarriquiry@gmail.com](mailto:gastoncarriquiry@gmail.com)
 *   🚀  I'm currently working on a [property reviews app](https://github.com/ozkavosh/proyecto-vecindario)
-*   🧠  I'm learning the basics for Web3 development (Solidity, Smart Contracts, etc.) while expanding my knowledge on React Js framework
+*   🧠  I'm expanding my knowledge on React Js framework, looking into a Full-Stack approach to Web Development. I'm also looking forward to learning the basics of Web3 development (Solidity, Smart Contracts, etc.).
 *   🤝  I'm open to collaborating on any interesting project
 
 ### Skills

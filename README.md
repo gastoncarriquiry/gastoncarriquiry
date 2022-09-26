@@ -8,7 +8,7 @@ I've been coding for 2 years now and always looking to learn.
 
 *   🌍  I'm based in Montevideo, Uruguay
 *   🖥️  See my portfolio at [this site](http://gastoncarriquiry.glitch.me)
-*   ✉️  You can contact me at [gastoncarriquiry@gmail.com](mailto:gastoncarriquiry@gmail.com)
+*   ✉️  You can contact me through [my email](mailto:gastoncarriquiry@gmail.com) or [my LinkedIn profile](https://www.linkedin.com/in/gastoncarriquiry/)
 *   🚀  I'm currently working on a [property reviews app](https://github.com/ozkavosh/proyecto-vecindario)
 *   🧠  I'm expanding my knowledge on React Js framework, looking into a Full-Stack approach to Web Development. I'm also looking forward to learning the basics of Web3 development (Solidity, Smart Contracts, etc.).
 *   🤝  I'm open to collaborating on any interesting project
